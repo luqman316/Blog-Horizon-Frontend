@@ -58,7 +58,7 @@ function Hero() {
                       <div className="text-white/80 text-sm flex gap-2">
                         <span>24 Jan 2024</span>
                         <span>•</span>
-                        <span>10 mins read</span>
+                        {/* <span>10 mins read</span> */}
                       </div>
                     </div>
                   </div>
@@ -105,7 +105,7 @@ function Hero() {
                       <div className="text-white/80 text-sm flex gap-2">
                         <span>24 Jan 2024</span>
                         <span>•</span>
-                        <span>10 mins read</span>
+                        {/* <span>10 mins read</span> */}
                       </div>
                     </div>
                   </div>
@@ -152,7 +152,7 @@ function Hero() {
                       <div className="text-white/80 text-sm flex gap-2">
                         <span>24 Jan 2024</span>
                         <span>•</span>
-                        <span>10 mins read</span>
+                        {/* <span>10 mins read</span> */}
                       </div>
                     </div>
                   </div>
